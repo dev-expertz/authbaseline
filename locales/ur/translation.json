@@ -1,0 +1,19 @@
+{
+  "username_null": "صارف کا نام خالی نہیں ہونا چاہیے",
+  "username_size": "صارف نام 6 سے کم اور 32 حروف سے زیادہ نہیں ہو سکتا",
+  "email_null": "ای میل خالی نہیں ہونا چاہیے",
+  "email_inuse": "ای میل استعمال میں ہے",
+  "email_invalid": "ای میل درست نہیں ہے",
+  "password_null": "پاس ور خالی نہیں ہونا چاہیے",
+  "password_size": "پاس ورڈ 8 سے کم اور 128 حروف سے زیادہ نہیں ہو سکتا",
+  "password_pattern": "پاس ورڈ میں کم از کم 1 بڑے، 1 چھوٹے اور 1 نمبر کا ہونا ضروری ہے",
+  "user_created": "صارف بن گیا ہے",
+  "user_notcreated": "صارف نہیں بنایا جا سکا",
+  "email_failure": "Email Failure",
+  "email_failure_message": "Failed to Deliver Email",
+  "activation_token_invalid": "This account is either already active or the token is invalid",
+  "user_activated": "User has been Activated",
+  "user_notactivated": "User could not be Activated",
+  "validation_failure": "Validation Failure",
+  "database_error": "Data could not be Saved"
+  }

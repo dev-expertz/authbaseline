@@ -1,0 +1,13 @@
+{
+    "dbConfig": {
+        "host": "localhost",
+        "database": "hoaxify",
+        "user": "root",
+        "password": "",
+        "dialect": "mysql",
+        "logging": false
+    },
+    "apiServer": {
+        "port": 3000
+    }
+}

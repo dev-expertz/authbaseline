@@ -1,0 +1,16 @@
+{
+    "dbConfig": {
+        "database": "hoaxifydev"
+    },
+    "apiServer": {
+        "port": 3001
+    },
+    "mail": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "tx7kodflssjsr7h2@ethereal.email",
+            "pass": "sJHkguUeSf6CFcjXCU"
+        }
+    }
+}

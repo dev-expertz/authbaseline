@@ -1,0 +1,20 @@
+{
+  "username_null": "Username cannot be null",
+  "username_size": "Username cannot be less than 6 and more than 32 characters",
+  "email_null": "Email cannot be null",
+  "email_inuse": "Email is in use",
+  "email_invalid": "Email is not Valid",
+  "password_null": "Password cannot be null",
+  "password_size": "Password cannot be less than 8 and more than 128 characters",
+  "password_pattern": "Password must have at least 1 uppercase, 1 lowercase, and 1 number",
+  "user_created": "User Created",
+  "user_notcreated": "User could not be Created",
+  "user_datainvalid": "User could not be Created because the User data is Invalid",
+  "email_failure": "Email Failure",
+  "email_failure_message": "Failed to Deliver Email",
+  "activation_token_invalid": "This account is either already active or the token is invalid",
+  "user_activated": "User has been Activated",
+  "user_notactivated": "User could not be Activated",
+  "validation_failure": "Validation Failure",
+  "database_error": "Data could not be Saved"
+}

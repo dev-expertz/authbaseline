@@ -1,0 +1,15 @@
+{
+    "dbConfig": {
+        "database": "hoaxifytest"
+    },
+    "apiServer": {
+        "port": 3002
+    },
+    "mail": {
+        "host": "127.0.0.1",
+        "port": 8587,
+        "tls": {
+            "rejectUnauthorized": false
+        }
+    }
+}
